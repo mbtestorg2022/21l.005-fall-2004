@@ -55,13 +55,66 @@ I will consider each of the requirements in determining your grade. If you canno
 Approximate Weighting
 ---------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and Full Participation (Including Conferences, Performances, Videos) | 20% |
-| Scene Composition, Paper Presentation and Class Leadership | 20% |
-| Response Essays | 20% |
-| Research Essay | 20% |
-| Final Examination | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Full Participation (Including Conferences, Performances, Videos)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Scene Composition, Paper Presentation and Class Leadership
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response Essays
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I reserve the right to alter the weighting somewhat in exceptional circumstances; usually this works to your advantage. If written work is incomplete or attendance is infrequent, you will not pass the course.
 
